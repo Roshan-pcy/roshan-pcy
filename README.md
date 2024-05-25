@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **godxrosu@gmail.com**
 
-- ⚡ Fun fact **Im very funny mindset**
+- ⚡ Fun fact **I have very funny mindset**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
