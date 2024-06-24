@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **godxrosu@gmail.com**
 
-- ⚡  fact **anyone can do it but just need proper time🔥 **
+- ⚡  fact **anyone can do it but just need proper time🔥**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
