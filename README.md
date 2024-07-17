@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **flutter & Nodejs**
 
-- 👯 I’m looking to collaborate on **Flutter project**
+- 👯 I’m looking to collaborate on **Flutter  project**
 
 - 🤝 I’m looking for help with **Flutter and native android**
 
