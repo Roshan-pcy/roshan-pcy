@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Flutter and native android**
 
-- 💬 Ask me about **flutter**
+- 💬 Ask me  about **flutter**
 
 - 📫 How to reach me **godxrosu@gmail.com**
 
