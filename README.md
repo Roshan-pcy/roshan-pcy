@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Full stack Shoping App project**
 
-- 🌱 I’m currently learning **flutter & Nodejs**
+- 🌱 I’m currently learning  **flutter & Nodejs**
 
 - 👯 I’m looking to collaborate on **Flutter  project**
 
