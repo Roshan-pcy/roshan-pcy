@@ -8,7 +8,7 @@
   
 - 👯 I’m looking to collaborate on **Flutter  project** 
 
-- 🤝 I’m looking for help with **Flutter and native android** 
+- 🤝 I’m looking for help with **Flutter and native android**  
 
 - 💬 Ask me  about **flutter** 
 
